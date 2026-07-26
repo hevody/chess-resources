@@ -1,3 +1,5 @@
 - [Chess Time](https://www.chesstime.io/)
-- [Chess Monitor](https://chessmonitor.com/) (almost the same as Chess Time but login required)
+- [Chess Monitor](https://chessmonitor.com/) (almost the same as Chess Time but login is required)
 - [Chess Dojo](https://www.chessdojo.club/) sign up, it's free
+- [Opening Tree](https://www.openingtree.com/)
+- [Lichess Practice](https://lichess.org/practice) and [Lichess Puzzles](https://lichess.org/training)
