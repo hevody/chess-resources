@@ -1,2 +1,3 @@
-# chess-resources
-resources I often visit for chess improvement
+- [Chess Time](https://www.chesstime.io/)
+- [Chess Monitor](https://chessmonitor.com/) (almost the same as Chess Time)
+- [Chess Dojo](https://www.chessdojo.club/) sign up, it's free
