@@ -1,7 +1,6 @@
 note: all resources are free (or have a free permanent tier)
 </br>
 </br>
-
 |                                                                                                      |                                                     |
 | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | [Chess Time](https://www.chesstime.io/)                                                              |                                                     |
@@ -9,3 +8,5 @@ note: all resources are free (or have a free permanent tier)
 | [Chess Dojo](https://www.chessdojo.club/)                                                            | sign up needed                                      |
 | [Opening Tree](https://www.openingtree.com/)                                                         |                                                     |
 | [Lichess Practice](https://lichess.org/practice) and [Lichess Puzzles](https://lichess.org/training) |                                                     |
+|[Stoyko Exercise](https://ultimaterank.blogspot.com/2014/10/about-stoyko-exercises.html)| |
+| [Chess Tempo](chesstempo.com) | |
