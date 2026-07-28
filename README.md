@@ -10,3 +10,5 @@ note: all resources are free (or have a free permanent tier)
 | [Lichess Practice](https://lichess.org/practice) and [Lichess Puzzles](https://lichess.org/training) |                                                     |
 |[Stoyko Exercise](https://ultimaterank.blogspot.com/2014/10/about-stoyko-exercises.html)| |
 | [Chess Tempo](chesstempo.com) | similar to Lichess Puzzles |
+
+check out some puzzles: [here](https://github.com/hevody/chess-resources/tree/main/velocity's%20woodpecker)
